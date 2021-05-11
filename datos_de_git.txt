@@ -1,3 +1,17 @@
 abro el bash en la carpeta que deseo
 
 git init --> inicia a crear el git o branch
+git status --> me dice que archivo he agregado y cuales no.
+git add #(nombre del archivo) --> me permite añadir archivos al git
+git config --global user.email "correo "
+git config --global user.name " nombre"
+git commit --> me permite empezar la version de mi proyecto, es como el punto de inicio del proyecto donde escribo el nombre de la version
+        Aqui debo presionar "i" para escribir el commit
+        para salir, ESC y :wq
+
+git log --> me da el bash con el cual puedo ver mi git
+git checkout --> Me permite reestablecer la version a como la guarde
+git diff --> Me permite ver las diferencias entre la version guardada y modificada
+
+.gitignore --> es un archivo que se crea para ignorar archivos indeseados.
+

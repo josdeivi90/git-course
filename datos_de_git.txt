@@ -1,0 +1,3 @@
+abro el bash en la carpeta que deseo
+
+git init --> inicia a crear el git o branch

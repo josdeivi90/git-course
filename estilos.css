@@ -1,0 +1,23 @@
+header {
+    background: green;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+}
+
+footer {
+    background: white;
+}
+
+body {
+    text-align: center;
+    font: bold 14px sans-serif;
+}
+
+header,
+section,
+footer,
+aside,
+nav,
+article {
+    border: 2px solid black;
+}
